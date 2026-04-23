@@ -12,12 +12,15 @@
 🚶 robot movement + head rotation
 🌳 trees + road
 🌞 Environment
+
 Moving sun (full vertical animation)
 Clouds drifting across sky
 Hills background
+
 🚍 Road system
 Big bus moving left ↔ right (reversing)
 Road with trees + houses
+
 🤖 Robot
 Move with keyboard
 Rotating head with face
