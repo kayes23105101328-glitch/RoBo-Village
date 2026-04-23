@@ -18,6 +18,9 @@
 
 🌳 trees + road
 
+
+
+
 🌞 Environment
 
 Moving sun (full vertical animation)
@@ -29,11 +32,15 @@ Hills background
 
 
 
+
+
 🚍 Road system
 
 Big bus moving left ↔ right (reversing)
 
 Road with trees + houses
+
+
 
 
 
